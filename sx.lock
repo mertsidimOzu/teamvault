@@ -15,3 +15,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/ozu-gpt-error-handling/1"
+
+[[assets]]
+  name = "ozu-gpt-repository-pattern"
+  version = "1"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/ozu-gpt-repository-pattern/1"
