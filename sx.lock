@@ -1,0 +1,10 @@
+lock-version = "1.0"
+version = "1"
+created-by = "skills/0.11.0"
+
+[[assets]]
+  name = "ozu-gpt-project"
+  version = "2"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/ozu-gpt-project/2"
