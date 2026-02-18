@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "ozu-gpt-sse-streaming"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "sse-streaming"
+  prompt-file = "RULE.md"
