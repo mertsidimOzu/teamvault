@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "ozu-gpt-project"
+  version = "2"
+  type = "rule"
+
+[rule]
+  title = "project"
+  prompt-file = "RULE.md"
