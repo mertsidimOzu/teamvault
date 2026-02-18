@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "ozu-gpt-error-handling"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "error-handling"
+  prompt-file = "RULE.md"
