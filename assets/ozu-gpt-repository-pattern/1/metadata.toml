@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "ozu-gpt-repository-pattern"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "repository-pattern"
+  prompt-file = "RULE.md"
