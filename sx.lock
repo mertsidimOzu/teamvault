@@ -22,3 +22,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/ozu-gpt-repository-pattern/1"
+
+[[assets]]
+  name = "ozu-gpt-sse-streaming"
+  version = "1"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/ozu-gpt-sse-streaming/1"
