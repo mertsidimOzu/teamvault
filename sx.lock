@@ -176,3 +176,10 @@ created-by = "skills/0.11.0"
   type = "agent"
   [assets.source-path]
     path = "./assets/gsd-nyquist-auditor/1"
+
+[[assets]]
+  name = "gsd-phase-researcher"
+  version = "1"
+  type = "agent"
+  [assets.source-path]
+    path = "./assets/gsd-phase-researcher/1"
