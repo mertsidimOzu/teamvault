@@ -1,0 +1,9 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "gsd-codebase-mapper"
+  version = "1"
+  type = "agent"
+
+[agent]
+  prompt-file = "gsd-codebase-mapper.md"
