@@ -1,0 +1,11 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "standards-backend"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "standards-backend"
+  prompt-file = "RULE.md"
+  globs = ["**/models/**", "**/models.py", "**/schema.prisma", "**/schema/**", "**/entities/**", "**/*.sql", "**/queries/**", "**/repository/**", "**/repositories/**", "**/dao/**", "**/migrations/**", "**/migrate/**", "**/alembic/**", "**/db/migrate/**", "**/routes/**", "**/api/**", "**/controllers/**", "**/endpoints/**", "**/handlers/**"]
