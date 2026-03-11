@@ -113,3 +113,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/standards-typescript/1"
+
+[[assets]]
+  name = "task-and-workflow"
+  version = "1"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/task-and-workflow/1"
