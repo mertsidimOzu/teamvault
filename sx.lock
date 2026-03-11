@@ -169,3 +169,10 @@ created-by = "skills/0.11.0"
   type = "agent"
   [assets.source-path]
     path = "./assets/gsd-integration-checker/1"
+
+[[assets]]
+  name = "gsd-nyquist-auditor"
+  version = "1"
+  type = "agent"
+  [assets.source-path]
+    path = "./assets/gsd-nyquist-auditor/1"
