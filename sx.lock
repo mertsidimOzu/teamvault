@@ -225,3 +225,10 @@ created-by = "skills/0.11.0"
   type = "agent"
   [assets.source-path]
     path = "./assets/gsd-verifier/1"
+
+[[assets]]
+  name = "learn"
+  version = "1"
+  type = "command"
+  [assets.source-path]
+    path = "./assets/learn/1"
