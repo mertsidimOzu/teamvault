@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "task-and-workflow"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "task-and-workflow"
+  prompt-file = "RULE.md"
