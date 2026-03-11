@@ -29,3 +29,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/ozu-gpt-sse-streaming/1"
+
+[[assets]]
+  name = "cli-tools"
+  version = "1"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/cli-tools/1"
