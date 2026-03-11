@@ -1,0 +1,9 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "gsd-roadmapper"
+  version = "1"
+  type = "agent"
+
+[agent]
+  prompt-file = "gsd-roadmapper.md"
