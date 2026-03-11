@@ -155,3 +155,10 @@ created-by = "skills/0.11.0"
   type = "agent"
   [assets.source-path]
     path = "./assets/gsd-debugger/1"
+
+[[assets]]
+  name = "gsd-executor"
+  version = "1"
+  type = "agent"
+  [assets.source-path]
+    path = "./assets/gsd-executor/1"
