@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "research-tools"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "research-tools"
+  prompt-file = "RULE.md"
