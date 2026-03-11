@@ -1,0 +1,11 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "standards-python"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "standards-python"
+  prompt-file = "RULE.md"
+  globs = ["**/*.py"]
