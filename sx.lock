@@ -36,3 +36,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/cli-tools/1"
+
+[[assets]]
+  name = "compaction"
+  version = "1"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/compaction/1"
