@@ -1,0 +1,11 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "standards-frontend"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "standards-frontend"
+  prompt-file = "RULE.md"
+  globs = ["**/*.tsx", "**/*.jsx", "**/*.html", "**/*.vue", "**/*.svelte", "**/*.css", "**/*.scss", "**/*.sass", "**/*.less", "**/*.module.css"]
