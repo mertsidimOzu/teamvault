@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "verification"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "verification"
+  prompt-file = "RULE.md"
