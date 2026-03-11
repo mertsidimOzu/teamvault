@@ -141,3 +141,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/verification/1"
+
+[[assets]]
+  name = "gsd-codebase-mapper"
+  version = "1"
+  type = "agent"
+  [assets.source-path]
+    path = "./assets/gsd-codebase-mapper/1"
