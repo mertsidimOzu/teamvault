@@ -1,0 +1,9 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "spec-verify"
+  version = "1"
+  type = "command"
+
+[command]
+  prompt-file = "spec-verify.md"
