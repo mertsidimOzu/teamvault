@@ -1,0 +1,9 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "learn"
+  version = "1"
+  type = "command"
+
+[command]
+  prompt-file = "learn.md"
