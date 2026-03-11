@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "team-vault"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "team-vault"
+  prompt-file = "RULE.md"
