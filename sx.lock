@@ -211,3 +211,10 @@ created-by = "skills/0.11.0"
   type = "agent"
   [assets.source-path]
     path = "./assets/gsd-research-synthesizer/1"
+
+[[assets]]
+  name = "gsd-roadmapper"
+  version = "1"
+  type = "agent"
+  [assets.source-path]
+    path = "./assets/gsd-roadmapper/1"
