@@ -127,3 +127,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/team-vault/1"
+
+[[assets]]
+  name = "testing"
+  version = "1"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/testing/1"
