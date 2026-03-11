@@ -148,3 +148,10 @@ created-by = "skills/0.11.0"
   type = "agent"
   [assets.source-path]
     path = "./assets/gsd-codebase-mapper/1"
+
+[[assets]]
+  name = "gsd-debugger"
+  version = "1"
+  type = "agent"
+  [assets.source-path]
+    path = "./assets/gsd-debugger/1"
