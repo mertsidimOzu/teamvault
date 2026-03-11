@@ -64,3 +64,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/pilot-memory/1"
+
+[[assets]]
+  name = "playwright-cli"
+  version = "1"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/playwright-cli/1"
