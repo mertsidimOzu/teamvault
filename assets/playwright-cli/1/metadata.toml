@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "playwright-cli"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "playwright-cli"
+  prompt-file = "RULE.md"
