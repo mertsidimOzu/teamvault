@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "context-continuation"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "context-continuation"
+  prompt-file = "RULE.md"
