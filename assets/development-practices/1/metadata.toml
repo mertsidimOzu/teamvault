@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "development-practices"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "development-practices"
+  prompt-file = "RULE.md"
