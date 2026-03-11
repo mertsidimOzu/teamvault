@@ -1,0 +1,11 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "standards-typescript"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "standards-typescript"
+  prompt-file = "RULE.md"
+  globs = ["**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx", "**/*.mjs", "**/*.mts"]
