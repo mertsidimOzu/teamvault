@@ -71,3 +71,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/playwright-cli/1"
+
+[[assets]]
+  name = "research-tools"
+  version = "1"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/research-tools/1"
