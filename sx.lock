@@ -232,3 +232,10 @@ created-by = "skills/0.11.0"
   type = "command"
   [assets.source-path]
     path = "./assets/learn/1"
+
+[[assets]]
+  name = "spec-implement"
+  version = "1"
+  type = "command"
+  [assets.source-path]
+    path = "./assets/spec-implement/1"
