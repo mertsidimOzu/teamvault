@@ -57,3 +57,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/development-practices/1"
+
+[[assets]]
+  name = "pilot-memory"
+  version = "1"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/pilot-memory/1"
