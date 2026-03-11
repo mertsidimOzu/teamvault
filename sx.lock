@@ -274,3 +274,10 @@ created-by = "skills/0.11.0"
   type = "command"
   [assets.source-path]
     path = "./assets/vault/1"
+
+[[assets]]
+  name = "get-shit-done"
+  version = "1"
+  type = "skill"
+  [assets.source-path]
+    path = "./assets/get-shit-done/1"
