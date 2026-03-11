@@ -1,0 +1,9 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "gsd-integration-checker"
+  version = "1"
+  type = "agent"
+
+[agent]
+  prompt-file = "gsd-integration-checker.md"
