@@ -43,3 +43,10 @@ created-by = "skills/0.11.0"
   type = "rule"
   [assets.source-path]
     path = "./assets/compaction/1"
+
+[[assets]]
+  name = "context-continuation"
+  version = "1"
+  type = "rule"
+  [assets.source-path]
+    path = "./assets/context-continuation/1"
