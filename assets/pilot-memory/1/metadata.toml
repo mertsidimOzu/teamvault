@@ -1,0 +1,10 @@
+metadata-version = "1.0"
+
+[asset]
+  name = "pilot-memory"
+  version = "1"
+  type = "rule"
+
+[rule]
+  title = "pilot-memory"
+  prompt-file = "RULE.md"
